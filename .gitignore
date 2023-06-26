@@ -135,3 +135,5 @@ _NCrunch*
 eventplanner.db
 eventplanner.db-shm
 eventplanner.db-wal
+
+appsettings.json
