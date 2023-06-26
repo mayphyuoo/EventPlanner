@@ -131,3 +131,7 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+eventplanner.db
+eventplanner.db-shm
+eventplanner.db-wal
