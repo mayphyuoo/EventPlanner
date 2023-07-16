@@ -137,3 +137,5 @@ eventplanner.db-shm
 eventplanner.db-wal
 
 appsettings.json
+
+.vscode/
